@@ -1,4 +1,4 @@
-from daten_stundenplanung import Kunden
+from Objects_of_our_bank import Kunden
 
 def header():
     print('-------------------------------------')
